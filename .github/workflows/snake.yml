@@ -1,4 +1,4 @@
-﻿name: Generate contribution snake
+name: Generate contribution snake
 
 on:
   schedule:
@@ -21,14 +21,15 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate GitHub light green contribution snake
+      - name: Generate light and dark contribution snakes
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish generated SVG to output branch
+      - name: Publish generated SVGs to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
