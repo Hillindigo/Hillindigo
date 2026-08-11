@@ -1,7 +1,3 @@
-# Hillindigo
-
-<h2 align="center">网格蛇 🐍</h2>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hillindigo/Hillindigo/output/github-contribution-grid-snake-dark.svg" />
