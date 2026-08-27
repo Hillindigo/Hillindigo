@@ -8,7 +8,7 @@
 
 I build business-oriented Agent applications by connecting LLM reasoning with deterministic backend workflows.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Hillindigo-181717?style=flat-square&logo=github)](https://github.com/Hillindigo) [![Blog](https://img.shields.io/badge/Blog-青山黛-2f6f5e?style=flat-square&logo=astro)](https://hillindigo.cc.cd/) [![X](https://img.shields.io/badge/X-Hillindigo__-000000?style=flat-square&logo=x)](https://x.com/Hillindigo_) [![Email](https://img.shields.io/badge/Email-1397628709%40qq.com-1f6feb?style=flat-square&logo=maildotru&logoColor=white)](mailto:1397628709@qq.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Hillindigo-181717?style=flat-square&logo=github)](https://github.com/Hillindigo) [![Blog](https://img.shields.io/badge/Blog-青山黛-2f6f5e?style=flat-square&logo=astro)](https://hillindigo.cc.cd/) [![X](https://img.shields.io/badge/X-Hillindigo__A-000000?style=flat-square&logo=x)](https://x.com/Hillindigo_A) [![Email](https://img.shields.io/badge/Email-1397628709%40qq.com-1f6feb?style=flat-square&logo=maildotru&logoColor=white)](mailto:1397628709@qq.com)
 
 </div>
 
@@ -121,7 +121,7 @@ I build business-oriented Agent applications by connecting LLM reasoning with de
 
 - GitHub: [github.com/Hillindigo](https://github.com/Hillindigo)
 - Blog: [青山黛 · Hillindigo](https://hillindigo.cc.cd/)
-- X: [@Hillindigo_](https://x.com/Hillindigo_)
+- X: [@Hillindigo_A](https://x.com/Hillindigo_A)
 - Email: [1397628709@qq.com](mailto:1397628709@qq.com)
 
 ---
