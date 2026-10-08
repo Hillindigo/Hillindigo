@@ -120,7 +120,7 @@ I build business-oriented Agent applications by connecting LLM reasoning with de
 ## Connect
 
 - GitHub: [github.com/Hillindigo](https://github.com/Hillindigo)
-- Blog: [青山黛 · Hillindigo](https://hillindigo.cc.cd/)
+- Blog: [青山黛 · Hillindigo](https://hillindigo.ccwu.cc/)
 - X: [@Hillindigo_A](https://x.com/Hillindigo_A)
 - Email: [1397628709@qq.com](mailto:1397628709@qq.com)
 
