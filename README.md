@@ -25,13 +25,31 @@ I build business-oriented Agent applications by connecting LLM reasoning with de
 
 ## Featured Projects
 
-### 01 · [ShopFlow](https://github.com/Hillindigo/ShopFlow)
+### 01 · [衣姿 YiziKu](https://yiziku.pages.dev)
+
+> 面向 AI 图像创作的姿势、服装与人像参考库
+
+将人物姿势、服装搭配与人像素材整合到一个创作入口，并通过 AI 虚拟试穿工作流，把参考素材转化为人物换装与造型方案。
+
+**核心功能**
+
+- 姿势参考库：浏览人物动作与多角度参考
+- 服装参考库：探索不同风格的服装与穿搭
+- 人像参考库：为人物形象与造型提供创作素材
+- AI 虚拟试穿：串联人物照片、服装与姿势选择，生成换装效果
+- 中英文提示词参考与复制，辅助 AI 图像创作
+
+[在线体验 →](https://yiziku.pages.dev/)
+
+---
+
+### 02 · [ShopFlow](https://github.com/Hillindigo/ShopFlow)
 
 > 跨境电商智能导购 Agent MVP
 
 将商品检索、预算与目的地约束、价格估算、订单确认和多轮对话串联为一条可追踪的购物闭环。
 
-**Engineering highlights**
+**核心功能**
 
 - Supervisor–Workers 多智能体协作与任务调度
 - 基于 Qdrant 的语义检索与结构化排序
@@ -45,13 +63,13 @@ I build business-oriented Agent applications by connecting LLM reasoning with de
 
 ---
 
-### 02 · [AI Front Desk](https://github.com/Hillindigo/ai-front-desk)
+### 03 · [AI Front Desk](https://github.com/Hillindigo/ai-front-desk)
 
 > 面向线下服务门店的智能咨询、预约与运营 Agent
 
 把客户咨询、知识检索、预约排班、偏好记录、商家管理和人工接管串成可扩展的业务工作流。
 
-**Engineering highlights**
+**核心功能**
 
 - 多 Agent 任务分类、路由与共享上下文
 - FAISS + Embedding 的 RAG 知识检索
@@ -67,13 +85,13 @@ I build business-oriented Agent applications by connecting LLM reasoning with de
 
 ---
 
-### 03 · [ORBITAL/LIVE](https://github.com/Hillindigo/orbital-live)
+### 04 · [ORBITAL/LIVE](https://github.com/Hillindigo/orbital-live)
 
 > 实时三维卫星轨道追踪应用
 
 从实时 TLE 数据获取、SGP4 轨道传播到 WebGL 三维地球渲染，构建可交互、可部署的卫星可视化产品。
 
-**Engineering highlights**
+**核心功能**
 
 - Three.js / WebGL 三维地球与卫星轨道渲染
 - satellite.js SGP4 轨道传播
