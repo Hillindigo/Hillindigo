@@ -59,7 +59,7 @@ I build business-oriented Agent applications by connecting LLM reasoning with de
 
 `TypeScript` · `React` · `Three.js` · `Web Worker` · `Cloudflare`
 
-[Repository →](https://github.com/Hillindigo/orbital-live)
+[在线体验 →](https://orbital-live.1hillindigo.workers.dev/) · [Repository →](https://github.com/Hillindigo/orbital-live)
 
 ---
 
