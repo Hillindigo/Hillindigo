@@ -43,7 +43,27 @@ I build business-oriented Agent applications by connecting LLM reasoning with de
 
 ---
 
-### 02 · [ShopFlow](https://github.com/Hillindigo/ShopFlow)
+### 02 · [ORBITAL/LIVE](https://github.com/Hillindigo/orbital-live)
+
+> 实时三维卫星轨道追踪应用
+
+从实时 TLE 数据获取、SGP4 轨道传播到 WebGL 三维地球渲染，构建可交互、可部署的卫星可视化产品。
+
+**核心功能**
+
+- Three.js / WebGL 三维地球与卫星轨道渲染
+- satellite.js SGP4 轨道传播
+- Web Worker 计算与离线 TLE 快照降级
+- 自动化数据更新与 Cloudflare 部署
+- 卫星筛选、遥测查看和交互式探索
+
+`TypeScript` · `React` · `Three.js` · `Web Worker` · `Cloudflare`
+
+[Repository →](https://github.com/Hillindigo/orbital-live)
+
+---
+
+### 03 · [ShopFlow](https://github.com/Hillindigo/ShopFlow)
 
 > 跨境电商智能导购 Agent MVP
 
@@ -63,7 +83,7 @@ I build business-oriented Agent applications by connecting LLM reasoning with de
 
 ---
 
-### 03 · [AI Front Desk](https://github.com/Hillindigo/ai-front-desk)
+### 04 · [AI Front Desk](https://github.com/Hillindigo/ai-front-desk)
 
 > 面向线下服务门店的智能咨询、预约与运营 Agent
 
@@ -82,26 +102,6 @@ I build business-oriented Agent applications by connecting LLM reasoning with de
 **Boundary:** Local-first MVP with a reproducible Fake-provider baseline; not presented as production deployment evidence.
 
 [Repository →](https://github.com/Hillindigo/ai-front-desk)
-
----
-
-### 04 · [ORBITAL/LIVE](https://github.com/Hillindigo/orbital-live)
-
-> 实时三维卫星轨道追踪应用
-
-从实时 TLE 数据获取、SGP4 轨道传播到 WebGL 三维地球渲染，构建可交互、可部署的卫星可视化产品。
-
-**核心功能**
-
-- Three.js / WebGL 三维地球与卫星轨道渲染
-- satellite.js SGP4 轨道传播
-- Web Worker 计算与离线 TLE 快照降级
-- 自动化数据更新与 Cloudflare 部署
-- 卫星筛选、遥测查看和交互式探索
-
-`TypeScript` · `React` · `Three.js` · `Web Worker` · `Cloudflare`
-
-[Live Demo →](https://orbital-live.1hillindigo.workers.dev/) · [Repository →](https://github.com/Hillindigo/orbital-live)
 
 ---
 
